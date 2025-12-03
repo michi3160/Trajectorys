@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "JP.MichiJP.trajectorys.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "CameraMixin",
+    "CrossbowItemAccessor",
+    "MouseMixin",
+    "WorldRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

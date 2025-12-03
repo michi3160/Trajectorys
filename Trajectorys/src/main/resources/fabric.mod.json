@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "trajectorys",
+  "version": "${version}",
+  "name": "Trajectorys",
+  "description": "Trajectorys-${version} Display the trajectory of the launch section.",
+  "authors": ["MichiJP"],
+  "environment": "client",
+  "contact": {
+    "homepage": "https://modrinth.com/project/trajectorys",
+    "issues": "https://forms.gle/Fnq9NdTuVq33NZJt7"
+  },
+  "license": "© 2025 MichiJP. All Rights Reserved.",
+  "icon": "assets/trajectorys/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "JP.MichiJP.Trajectorys"
+    ],
+    "client": [
+      "JP.MichiJP.client.TrajectorysClient"
+    ],
+    "modmenu": [
+      "JP.MichiJP.integration.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "trajectorys.mixins.json",
+    "trajectorys.client.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "minecraft": "~1.21",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
