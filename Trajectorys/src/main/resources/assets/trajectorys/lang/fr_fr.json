@@ -1,0 +1,18 @@
+{
+  "title.trajectorys.config": "Configuration Trajectorys",
+  "category.trajectorys.general": "Général",
+  "category.trajectorys.render": "Rendu",
+  "option.trajectorys.enableMod": "Activer le mod",
+  "option.trajectorys.showSelf": "Afficher sa propre trajectoire",
+  "option.trajectorys.showOthers": "Afficher les trajectoires des autres",
+  "option.trajectorys.showProjectiles": "Afficher les trajectoires des projectiles",
+  "option.trajectorys.playSound": "Jouer le son de l'impact",
+  "option.trajectorys.renderLine": "Afficher la ligne",
+  "option.trajectorys.lineWidth": "Épaisseur de la ligne",
+  "option.trajectorys.lineColor": "Couleur de la ligne",
+  "option.trajectorys.renderHitBox": "Afficher la zone d'impact",
+  "option.trajectorys.hitBoxLineWidth": "Épaisseur de la ligne de zone d'impact",
+  "option.trajectorys.boxSize": "Taille de la zone d'impact",
+  "option.trajectorys.entityHitColor": "Couleur d'impact (Entité)",
+  "option.trajectorys.blockHitColor": "Couleur d'impact (Bloc)"
+}
