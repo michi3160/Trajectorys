@@ -1,0 +1,18 @@
+{
+  "title.trajectorys.config": "Trajectorys Config",
+  "category.trajectorys.general": "General",
+  "category.trajectorys.render": "Render",
+  "option.trajectorys.enableMod": "Enable Mod",
+  "option.trajectorys.showSelf": "Show Self",
+  "option.trajectorys.showOthers": "Show Others",
+  "option.trajectorys.showProjectiles": "Show Projectiles",
+  "option.trajectorys.playSound": "Play Hit Sound",
+  "option.trajectorys.renderLine": "Render Line",
+  "option.trajectorys.lineWidth": "Line Width",
+  "option.trajectorys.lineColor": "Line Color",
+  "option.trajectorys.renderHitBox": "Render Hit Box",
+  "option.trajectorys.hitBoxLineWidth": "Hit Box Line Width",
+  "option.trajectorys.boxSize": "Box Size",
+  "option.trajectorys.entityHitColor": "Entity Hit Color",
+  "option.trajectorys.blockHitColor": "Block Hit Color"
+}
