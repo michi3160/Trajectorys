@@ -1,0 +1,18 @@
+{
+  "title.trajectorys.config": "Trajectorys 設定",
+  "category.trajectorys.general": "全般",
+  "category.trajectorys.render": "描画",
+  "option.trajectorys.enableMod": "MODを有効化",
+  "option.trajectorys.showSelf": "自分の軌道を表示",
+  "option.trajectorys.showOthers": "他のプレイヤーの軌道を表示",
+  "option.trajectorys.showProjectiles": "飛翔中の発射物を表示",
+  "option.trajectorys.playSound": "ヒット音を再生",
+  "option.trajectorys.renderLine": "線を描画",
+  "option.trajectorys.lineWidth": "線の太さ",
+  "option.trajectorys.lineColor": "線の色",
+  "option.trajectorys.renderHitBox": "ヒットボックスを描画",
+  "option.trajectorys.hitBoxLineWidth": "ボックスの線の太さ",
+  "option.trajectorys.boxSize": "ヒットボックスのサイズ",
+  "option.trajectorys.entityHitColor": "エンティティヒット時の色",
+  "option.trajectorys.blockHitColor": "ブロックヒット時の色"
+}

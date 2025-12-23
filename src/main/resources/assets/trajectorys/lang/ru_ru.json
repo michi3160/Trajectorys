@@ -1,0 +1,18 @@
+{
+  "title.trajectorys.config": "Настройки Trajectorys",
+  "category.trajectorys.general": "Общие",
+  "category.trajectorys.render": "Рендеринг",
+  "option.trajectorys.enableMod": "Включить мод",
+  "option.trajectorys.showSelf": "Показывать свою траекторию",
+  "option.trajectorys.showOthers": "Показывать траектории других",
+  "option.trajectorys.showProjectiles": "Показывать траектории снарядов",
+  "option.trajectorys.playSound": "Воспроизводить звук попадания",
+  "option.trajectorys.renderLine": "Отображать линию",
+  "option.trajectorys.lineWidth": "Толщина линии",
+  "option.trajectorys.lineColor": "Цвет линии",
+  "option.trajectorys.renderHitBox": "Отображать хитбокс",
+  "option.trajectorys.hitBoxLineWidth": "Толщина линии хитбокса",
+  "option.trajectorys.boxSize": "Размер хитбокса",
+  "option.trajectorys.entityHitColor": "Цвет при попадании в сущность",
+  "option.trajectorys.blockHitColor": "Цвет при попадании в блок"
+}
